@@ -1,0 +1,15 @@
+export const COLORS = {
+  ACCENT: '#e94560',
+  DEEP_BLUE: '#0f3460',
+  BACKGROUND: '#1a1a2e',
+  SURFACE: '#16213e',
+  SURFACE_VARIANT: '#1e2a45',
+  ON_SURFACE: '#e8e8e8',
+  ON_SURFACE_MUTED: '#8899aa',
+  OUTLINE: '#2a3a55',
+  OK_GREEN: '#4caf50',
+  WARNING_AMBER: '#ff9800',
+  OVERDUE_RED: '#f44336',
+  INFO_BLUE: '#2196f3',
+  WHITE: '#ffffff',
+};
