@@ -1,7 +1,7 @@
 # BikeLog
 
 Motorcycle maintenance logging Android app built with React Native + Expo.
-
+Claude garbage in&out, just tryin ai coding
 ## Features
 
 - **Maintenance Logs** — Track oil changes, repairs, tires, brakes, filters, battery, and inspections
