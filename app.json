@@ -48,7 +48,7 @@
     },
     "plugins": [
       "expo-router",
-      "./plugins/withAppActions",
+      "./plugins/withAppActions.js",
       [
         "expo-notifications",
         {
